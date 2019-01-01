@@ -17,6 +17,6 @@ A blank web page template using Node, Express, and Pug
 </ol>
 <h2>Recommended</h2>
 <ol>
-  <li>Install <a href="https://nodemon.io/">nodemon</a> for automatic reloading: <kbd>npm install nodemon</kbd></li>
+  <li>Install <a href="https://nodemon.io/">nodemon</a> for automatic reloading: <kbd>npm install -g nodemon</kbd></li>
   <li><kbd>nodemon app</kbd></li>
 </ol>
